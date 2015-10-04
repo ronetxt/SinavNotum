@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sinavnotum</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">844583275655277</string>
+</resources>

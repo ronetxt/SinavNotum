@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aret/Desktop/Projects/android/Sinav_Notum/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/aret/Desktop/Projects/android/Sinav_Notum/app/build/intermediates/pre-dexed/debug/classes-b7a0dadc758a9a27b240427a76fcaaed495a1ab1.jar" />
+    </item>
+    <item
+        jar="/Users/aret/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/aret/Desktop/Projects/android/Sinav_Notum/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-53730a7e65b80aa33f454ea5507b3f47353ae641.jar" />
+    </item>
+    <item
+        jar="/Users/aret/Desktop/Projects/android/Sinav_Notum/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/aret/Desktop/Projects/android/Sinav_Notum/app/build/intermediates/pre-dexed/debug/classes-262fa8ae9ff84b20c9e314fc186e262805b61233.jar" />
+    </item>
+    <item
+        jar="/Users/aret/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/aret/Desktop/Projects/android/Sinav_Notum/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-dace0ade3ce9c215cdb4592b3be38d7016d7491d.jar" />
+    </item>
+    <item
+        jar="/Users/aret/Desktop/Projects/android/Sinav_Notum/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/aret/Desktop/Projects/android/Sinav_Notum/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d53e0bf070ea615d3da44c1ea3078b267afb0b5f.jar" />
+    </item>
+    <item
+        jar="/Users/aret/Desktop/Projects/android/Sinav_Notum/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/Users/aret/Desktop/Projects/android/Sinav_Notum/app/build/intermediates/pre-dexed/debug/classes-6c08e20347f940c7e53226fcd50aaf8913349fc7.jar" />
+    </item>
+
+</items>
